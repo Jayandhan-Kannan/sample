@@ -1,3 +1,3 @@
-from sample.product import Product
+from product import Product
 product = Product()
 print(product.age)
